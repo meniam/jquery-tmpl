@@ -1,11 +1,11 @@
 {
-  "name": "jquery-tmpl",
+  "name": "jquery-tmpl-last",
   "version": "1.0.4",
-  "homepage": "https://github.com/KanbanSolutions/jquery-tmpl",
+  "homepage": "https://github.com/meniam/jquery-tmpl",
   "authors": [
     "DJ Gilcrease <dj.gilcrease@kanbansolutions.com>"
   ],
-  "description": "A templating plugin",
+  "description": "A templating plugin for jQuery",
   "main": "./jquery.tmpl.js",
   "keywords": [
     "templating",
